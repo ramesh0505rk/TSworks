@@ -27,9 +27,9 @@
 // y.forEach(i=>{
 //     console.log(i[0]+i[1])
 // })
-let myTuple;
-function swap(n1, n2) {
-    return myTuple = [n2, n1];
-}
-myTuple = swap(10, 20);
-console.log(myTuple);
+// let myTuple:[number,number]
+// function swap(n1:number,n2:number){
+//     return myTuple=[n2,n1]
+// }
+// myTuple=swap(10,20)
+// console.log(myTuple)

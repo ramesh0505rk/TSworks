@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var ramesh;
+ramesh = { name: 'Ramz', age: 22, college: 'kct' };
+console.log(ramesh);
+var user1;
+user1 = { name: 'Kevin', age: 25, phone: 9360883227 };
+var std;
+std = { name: 'Ramz', age: 22, school: 'AKDR', college: 'kct', phone: 9360883227, email: 'ramesh0505rk@gmail.com' };
+console.log(std);
